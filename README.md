@@ -1,5 +1,7 @@
 # Number Theory: Subtraction
 
+# Names: Trevor Bergeson and Alan Fong
+
 In this lab you've learned the basics of number theory as it relates to subtraction.
 
 ## Rubric
